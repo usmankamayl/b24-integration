@@ -1,5 +1,7 @@
 # Интеграция Bitrix Framework (БУС / Б24) с внешними системами
 
+[![CI](https://github.com/usmankamayl/b24-integration/actions/workflows/ci.yml/badge.svg)](https://github.com/usmankamayl/b24-integration/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 Слой интеграции для сайтов на Bitrix Framework: HTTP-клиент с таймаутами и защитой от утечки
 ключей, идемпотентная отправка заказов во внешние системы, переключение окружений dev/prod,
 логирование с маскированием секретов.
